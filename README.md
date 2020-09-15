@@ -1,4 +1,4 @@
-I'm using the below to learn more about ai.
+I'm using this to learn more about ai...you can see the path below by which I received it. Not mine...thanks to openai for making it available and the researchers below for making their research available.
 
 # gpt-2
 
